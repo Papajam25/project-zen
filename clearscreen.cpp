@@ -4,6 +4,7 @@ using namespace std;
 void cls();
 int add();
 int sub();
+int x;
 
 int main() {
     int user_input, result;
